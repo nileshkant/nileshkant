@@ -4,7 +4,14 @@
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me? - Just google my full name.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshkant&theme=tokyonight) | [GitHub stats](https://github-readme-stats.vercel.app/api?username=nileshkant&show_icons=true&theme=tokyonight)  
+<p>
+  <span>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nileshkant&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Nilesh Kant" />
+  </span>
+  <span>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nileshkant&show_icons=true&theme=tokyonight" alt="Nilesh Kant" width="410" />
+  </span>
+</p>
 
 ![GitHub metrics](https://metrics.lecoq.io/nileshkant)  
 
