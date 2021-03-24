@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me? - Just google my full name.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshkant)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshkant&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nileshkant&show_icons=true&theme=tokyonight)  
 
 ![GitHub metrics](https://metrics.lecoq.io/nileshkant)  
 
